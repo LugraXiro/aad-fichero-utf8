@@ -1,10 +1,4 @@
 package es.lugra;
-
-import es.lugra.EscritorLector;
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
