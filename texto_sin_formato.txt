@@ -1,0 +1,1 @@
+Texto con tildes y eñes: á, é, í, ó, ú, Á, É, Í, Ó, Ú, ñ, Ñ.
